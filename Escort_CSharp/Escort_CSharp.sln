@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "대리자", "대리자\대�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "대리자2", "대리자2\대리자2.csproj", "{18A11A48-FC98-4345-9EA9-C600DCB419BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate_Event", "Delegate_Event\Delegate_Event.csproj", "{EF8B9303-98C2-4303-8EAC-31D587E7B282}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{18A11A48-FC98-4345-9EA9-C600DCB419BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18A11A48-FC98-4345-9EA9-C600DCB419BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18A11A48-FC98-4345-9EA9-C600DCB419BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF8B9303-98C2-4303-8EAC-31D587E7B282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF8B9303-98C2-4303-8EAC-31D587E7B282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF8B9303-98C2-4303-8EAC-31D587E7B282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF8B9303-98C2-4303-8EAC-31D587E7B282}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
