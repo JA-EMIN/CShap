@@ -9,15 +9,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IList_인터페이스", "IL
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IDictionary_인터페이스", "IDictionary_인터페이스\IDictionary_인터페이스.csproj", "{5DCBCE65-55F8-46C9-93CC-3F58F1C31493}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "대리자", "대리자\대리자.csproj", "{AEC6DB3E-1119-46C8-99DA-4303EA52C021}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "대리자", "대리자\대리자.csproj", "{AEC6DB3E-1119-46C8-99DA-4303EA52C021}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "대리자2", "대리자2\대리자2.csproj", "{18A11A48-FC98-4345-9EA9-C600DCB419BE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate_Event", "Delegate_Event\Delegate_Event.csproj", "{EF8B9303-98C2-4303-8EAC-31D587E7B282}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddMemberEventTest", "AddMemberEventTest\AddMemberEventTest.csproj", "{70EFE4FA-A71D-41FE-8FE8-28B927E5A631}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddMemberEventTest", "AddMemberEventTest\AddMemberEventTest.csproj", "{70EFE4FA-A71D-41FE-8FE8-28B927E5A631}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyAssociation", "DependencyAssociation\DependencyAssociation.csproj", "{744B1AEA-CF47-4B69-BE2E-80989B08DBC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyAssociation", "DependencyAssociation\DependencyAssociation.csproj", "{744B1AEA-CF47-4B69-BE2E-80989B08DBC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IComparable_IComparer", "IComparable_IComparer\IComparable_IComparer.csproj", "{5ACE91E5-7CDE-4C2E-B083-BFA03A0BAF7F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{744B1AEA-CF47-4B69-BE2E-80989B08DBC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{744B1AEA-CF47-4B69-BE2E-80989B08DBC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{744B1AEA-CF47-4B69-BE2E-80989B08DBC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ACE91E5-7CDE-4C2E-B083-BFA03A0BAF7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ACE91E5-7CDE-4C2E-B083-BFA03A0BAF7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ACE91E5-7CDE-4C2E-B083-BFA03A0BAF7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ACE91E5-7CDE-4C2E-B083-BFA03A0BAF7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
