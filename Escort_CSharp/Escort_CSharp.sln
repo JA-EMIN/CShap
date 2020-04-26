@@ -21,6 +21,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyAssociation", "De
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IComparable_IComparer", "IComparable_IComparer\IComparable_IComparer.csproj", "{5ACE91E5-7CDE-4C2E-B083-BFA03A0BAF7F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealizationAssociation", "RealizationAssociation\RealizationAssociation.csproj", "{AAC41A5B-72C9-466E-A5C7-D4B816A8C9EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracelFeeSimulation", "PracelFeeSimulation\PracelFeeSimulation.csproj", "{A1E81570-C4FE-481C-8B4C-F73C2018FB61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{5ACE91E5-7CDE-4C2E-B083-BFA03A0BAF7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5ACE91E5-7CDE-4C2E-B083-BFA03A0BAF7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5ACE91E5-7CDE-4C2E-B083-BFA03A0BAF7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAC41A5B-72C9-466E-A5C7-D4B816A8C9EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC41A5B-72C9-466E-A5C7-D4B816A8C9EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAC41A5B-72C9-466E-A5C7-D4B816A8C9EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC41A5B-72C9-466E-A5C7-D4B816A8C9EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1E81570-C4FE-481C-8B4C-F73C2018FB61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1E81570-C4FE-481C-8B4C-F73C2018FB61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1E81570-C4FE-481C-8B4C-F73C2018FB61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1E81570-C4FE-481C-8B4C-F73C2018FB61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
